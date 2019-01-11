@@ -1,0 +1,83 @@
+@startuml
+JFrame--|>level
+JFrame--|>beginnerframe
+JFrame--|>Intermedium
+JFrame--|>some
+Intermedium--* level
+some--* level
+beginnerframe --* level
+class level{
+	- JPanel contentPane
+	- JButton btnIntermediate
+	+ {static} main():void
+}
+class beginnerframe{
+	- JPanel contentPane
+	- JButton btnNewButton
+	- JButton button
+	- JButton button_1
+	- JButton btnInput
+	- JButton button_2
+	- JButton button_3
+	- JLabel lblOutput
+	- JTextField textField
+	- JComboBox comboBox
+	- JComboBox comboBox_1
+	- JComboBox comboBox_2
+	- JLabel lblInput
+	- JLabel lblInput_2
+	- JLabel lblInput_1
+	int j
+	int i
+	int l
+	- JButton button_4
+	- JButton button_5
+	+ {static} main():void
+}
+class Intermedium{
+	- JPanel contentPane
+	- JTextField textField
+	- JLabel lblInput
+	- JLabel lblInput_2
+	- JLabel lblInput_1
+	- JComboBox comboBox_1
+	- JComboBox comboBox_2
+	- JComboBox comboBox
+	- JButton button_6
+	- JButton btnInput
+	- JButton button_5
+	int i
+	int j
+	int l
+	- JButton button_7
+	- JButton button_8
+	- JButton button_9
+	- JButton button_10
+	+ {static} main():void
+}
+class some{
+	- JPanel contentPane
+	- JTextField textField
+	- JButton button_5
+	- JComboBox comboBox
+	- JComboBox comboBox_1
+	- JComboBox comboBox_2
+	- JButton btnNewButton_1
+	- JButton button_6
+	- JLabel lblInput
+	- JLabel lblInput_1
+	- JLabel lblInput_2
+	- JLabel lblExpert
+	int i
+	int j
+	int l
+	- JButton button_3
+	- JButton button_4
+	- JButton button_7
+	- JButton button_8
+	- JButton button_9
+	- JButton button_10
+	- JButton button_11
+	+ {static} main():void
+}
+@enduml
