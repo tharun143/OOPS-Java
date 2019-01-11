@@ -18,6 +18,8 @@
 2. **Intermmediate** level will have some advanced operations.
 3. **Expert** level will have some more advanced operations.
 
+See the images of the project in images folder.
+
 Read the **CONTRIBUTING.md** file before contributing.
 
 Feel free to contribute!
