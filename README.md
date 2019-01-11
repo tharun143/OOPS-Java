@@ -29,7 +29,7 @@
 
 ![Expert level](https://github.com/tharun143/OOPS-Java/blob/master/images/Screenshot%20from%202018-11-07%2017-38-16.png)
 
-4. **UML Diagram **
+ # UML Diagram 
 
 ![](https://github.com/tharun143/OOPS-Java/blob/master/UML/tharunuml.png)
 
