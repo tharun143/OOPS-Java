@@ -29,8 +29,9 @@
 
 ![Expert level](https://github.com/tharun143/OOPS-Java/blob/master/images/Screenshot%20from%202018-11-07%2017-38-16.png)
 
+**UML Diagram **
 
-![UML diagram of the project](https://github.com/tharun143/OOPS-Java/blob/master/UML/tharunuml.png)
+![](https://github.com/tharun143/OOPS-Java/blob/master/UML/tharunuml.png)
 
 Read the **CONTRIBUTING.md** file before contributing.
 
